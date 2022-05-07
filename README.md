@@ -1,4 +1,4 @@
-## Projeto desenvolvido no evento NWL Return - Mission Origin.
+## Projeto desenvolvido no evento NWL Return - Mission Origin
 
 ## 🚀 Tecnologias
 
